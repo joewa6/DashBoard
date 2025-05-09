@@ -6,6 +6,7 @@ from sklearn.linear_model import LinearRegression
 import ccxt
 import matplotlib.pyplot as plt
 
+
 # -------------------------------
 # Helper Functions
 # -------------------------------
